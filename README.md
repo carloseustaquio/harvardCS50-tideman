@@ -6,7 +6,7 @@ So, I decided to put my resolution here, with all my comments explaining the way
 Some Algorithms used: Ranked Pairs, Bubble Sort, Recursion.
 
 ## Demo:
-![Tideman Demo](/tideman_test.gif)
+![Tideman Demo](/tideman_test_2.gif)
 
 ## Description
 Tideman is an election algorithm, that utilizes rank-choice system.
